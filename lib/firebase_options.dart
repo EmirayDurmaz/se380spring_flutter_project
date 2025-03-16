@@ -41,6 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
+    //Buralarda api keyler vardı sildim githuba atarken
 
     appId: '1:227926549092:web:58bb7d675d713ddfff3571',
     messagingSenderId: '227926549092',
@@ -51,7 +52,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    ,
+    //Buralarda api keyler vardı sildim githuba atarken,
     appId: '1:227926549092:android:4cac5cd74c590d92ff3571',
     messagingSenderId: '227926549092',
     projectId: 'swimnsmash',
@@ -59,7 +60,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    ,
+    //Buralarda api keyler vardı sildim githuba atarken,
     appId: '1:227926549092:ios:0e92d6de6d431002ff3571',
     messagingSenderId: '227926549092',
     projectId: 'swimnsmash',
