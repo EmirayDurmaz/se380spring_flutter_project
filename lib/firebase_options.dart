@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCzoKIVJ0pQ_lUkTrECggC9zJbXFQGLe1k',
+    ,
     appId: '1:227926549092:ios:0e92d6de6d431002ff3571',
     messagingSenderId: '227926549092',
     projectId: 'swimnsmash',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCzoKIVJ0pQ_lUkTrECggC9zJbXFQGLe1k',
+    ,
     appId: '1:227926549092:ios:0e92d6de6d431002ff3571',
     messagingSenderId: '227926549092',
     projectId: 'swimnsmash',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAKGQvqncY_kCxnCGcNUsRtwvxK0IoafsI',
+    ,
     appId: '1:227926549092:web:5bd4a6d0272569a1ff3571',
     messagingSenderId: '227926549092',
     projectId: 'swimnsmash',
